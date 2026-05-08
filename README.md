@@ -68,12 +68,19 @@ I care a lot about **reproducible research** — clean code, version control, an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chenghang1989&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenghang1989&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="./metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenghang1989&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar"/>
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.activity.svg" alt="Recent Activity"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chenghang1989&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
