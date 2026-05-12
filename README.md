@@ -76,10 +76,6 @@ I care a lot about **reproducible research** — clean code, version control, an
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.activity.svg" alt="Recent Activity"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=chenghang1989&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
