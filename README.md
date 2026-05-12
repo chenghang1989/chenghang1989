@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Hang Cheng 👋</h1>
 
 <p align="center">
-  <em>Faculty member · Researcher in Financial Economics</em><br/>
-  <em>高校教师 · 金融经济学研究者</em>
+  <em>Faculty member · Asset Pricing, Portfolio, and Investment Research</em><br/>
+  <em>高校教师 · 资产定价、投资组合与投资研究</em>
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 
 ### 🎓 About Me
 
-I'm a university faculty member working at the intersection of **financial economics** and **empirical asset pricing**. My research uses high-frequency market data and modern econometric tools to study how risks — from microstructure frictions to long-horizon climate exposure — get priced into financial assets.
+I'm a university faculty member working in **financial economics**, with a primary research agenda in **empirical asset pricing**. My current work centers on the **risk-return trade-off** in asset markets. I approach this question mainly from a **time-series predictability** perspective, using three predictors from our JBF paper: **volatility**, the **scaled price ratio**, and **inflation**.
 
-我是一名高校教师，研究方向集中在 **金融经济学** 与 **实证资产定价**。我喜欢用高频数据和现代计量方法去理解：从微观结构摩擦到长期气候风险，各种风险是如何被市场定价的。
+我是一名高校教师，主要从事 **金融经济学** 与 **实证资产定价** 研究。我的核心研究主线是资产市场中的 **风险收益权衡**。目前我主要从 **时间序列预测** 的角度切入，围绕我们发表在 JBF 论文中的三个时间序列因素展开：**波动率**、**缩放价格比** 和 **通货膨胀**。
 
 ---
 
 ### 🔬 Research Interests / 研究方向
 
-- 📈 **Asset Pricing** — Cross-section of returns, risk premia, factor models
-- ⚡ **High-Frequency Data Analysis** — Microstructure, realized volatility, jumps
-- 🌍 **Climate Finance** — Pricing of climate risks, transition risk, green assets
-- 👵 **Pension Finance** — Retirement systems, longevity risk, household portfolio choice
-- 📊 **Financial Econometrics** — Empirical methods for finance and macro-finance
+- 📈 **Risk-Return Trade-off** — Time-series return predictability using volatility, scaled price ratio, and inflation
+- 🧩 **Cross-sectional Asset Pricing** — Risk premia, factor models, and expected-return anomalies
+- 💼 **Portfolio & Investment** — Portfolio choice, investment decisions, and long-horizon allocation
+- 🌍 **Climate Risk & Climate Finance** — Pricing of transition and physical climate risks in financial markets
+- ⏳ **Patient Finance** — Long-term capital, investment horizons, and patient risk bearing
 
 ---
 
@@ -44,16 +44,17 @@ I'm a university faculty member working at the intersection of **financial econo
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
 </p>
 
-I care a lot about **reproducible research** — clean code, version control, and well-documented data pipelines are core to how I work.
+I care a lot about **reproducible empirical research** — clean code, version control, and well-documented data pipelines are core to how I work.
 
 ---
 
 ### 🚀 What I'm Working On
 
-- 🔭 Empirical projects on **Market Volatility**, and still focus on **Risk Return Trade Off** in Stock Market.
-- 🌱 Exploring how **climate transition risk** propagates into equity and bond pricing
-- 🧓 Studying **pension system reform** and its implications for household portfolio choice
-- 🤖 Experimenting with **LLM-assisted research workflows** for literature review and paper drafting
+- 🔭 Studying the **risk-return trade-off** through time-series return prediction in stock markets
+- 📊 Working with **volatility**, the **scaled price ratio**, and **inflation** as key predictors of expected returns
+- 🧩 Extending the asset-pricing agenda to **cross-sectional returns**, **portfolio choice**, and **investment**
+- 🌱 Exploring related topics in **climate risk**, **climate finance**, and **patient finance**
+- 🤖 Experimenting with **LLM-assisted research workflows** for literature review, empirical analysis, and paper drafting
 
 ---
 
