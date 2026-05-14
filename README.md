@@ -66,22 +66,6 @@ I care a lot about **reproducible empirical research** — clean code, version c
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics"/>
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chenghang1989&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <em>"In God we trust. All others must bring data." — W. Edwards Deming</em>
 </p>
