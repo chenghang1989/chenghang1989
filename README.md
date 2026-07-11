@@ -15,9 +15,13 @@
 
 ### 🎓 About Me
 
-I'm a university faculty member working in **financial economics**, with a primary research agenda in **empirical asset pricing**. My current work centers on the **risk-return trade-off** in asset markets. I approach this question mainly from a **time-series predictability** perspective, using three predictors from our JBF paper: **volatility**, the **scaled price ratio**, and **inflation**.
+I'm a university faculty member working in **financial economics**, with a primary research agenda in **empirical asset pricing**. My current work centers on the **risk-return trade-off** in asset markets, approached from a **time-series predictability** perspective using volatility, the scaled price ratio, and inflation.
 
-我是一名高校教师，主要从事 **金融经济学** 与 **实证资产定价** 研究。我的核心研究主线是资产市场中的 **风险收益权衡**。目前我主要从 **时间序列预测** 的角度切入，围绕我们发表在 JBF 论文中的三个时间序列因素展开：**波动率**、**缩放价格比** 和 **通货膨胀**。
+Beyond the core asset-pricing agenda, I also work on **climate risk and green finance**, **the economics of AI and financial stability**, **public finance and inclusive finance**, **industrial policy and credit risk**, and **pension finance & fiscal buffers**. I bring a unified lens to these questions: how do institutional arrangements, policy shocks, and risk exposures enter firm decisions, household portfolios, and market prices?
+
+我是一名高校教师，主要从事 **金融经济学** 与 **实证资产定价** 研究。我的核心研究主线是资产市场中的 **风险收益权衡**，目前主要从 **时间序列预测** 的角度切入，围绕波动率、缩放价格比和通货膨胀三个因素展开。
+
+在资产定价核心主线之外，我的研究还覆盖 **气候风险与绿色金融**、**AI 经济学与金融稳定**、**公共金融与普惠金融**、**产业政策与信用风险**、以及 **养老金融与财政缓冲** 等方向。我希望用一个统一的视角来理解这些议题：制度安排、政策冲击和风险暴露究竟是通过什么机制进入企业决策、家庭投资组合以及金融市场定价之中的。
 
 ---
 
@@ -26,8 +30,13 @@ I'm a university faculty member working in **financial economics**, with a prima
 - 📈 **Risk-Return Trade-off** — Time-series return predictability using volatility, scaled price ratio, and inflation
 - 🧩 **Cross-sectional Asset Pricing** — Risk premia, factor models, and expected-return anomalies
 - 💼 **Portfolio & Investment** — Portfolio choice, investment decisions, and long-horizon allocation
-- 🌍 **Climate Risk & Climate Finance** — Pricing of transition and physical climate risks in financial markets
+- 🌍 **Climate Risk & Green Finance** — Pricing of transition and physical climate risks in financial markets
 - ⏳ **Patient Finance** — Long-term capital, investment horizons, and patient risk bearing
+- 🏛️ **Public Finance & Inclusive Finance** — Government credit guarantees, supply-chain financing, and data-as-collateral
+- 🤖 **Economics of AI** — AI productivity paradox, task automation, and AI-driven financial fragility
+- 🏭 **Industrial Policy & Credit Risk** — Policy design, implicit guarantees, and corporate credit risk
+- 🏦 **Pension Finance & Fiscal Buffers** — Pension systems, fiscal buffers, and asset pricing in general equilibrium
+- 📊 **Market Microstructure & Treasury Futures** — Price discovery, market quality, and high-frequency return decomposition
 
 ---
 
@@ -53,7 +62,12 @@ I care a lot about **reproducible empirical research** — clean code, version c
 - 🔭 Studying the **risk-return trade-off** through time-series return prediction in stock markets
 - 📊 Working with **volatility**, the **scaled price ratio**, and **inflation** as key predictors of expected returns
 - 🧩 Extending the asset-pricing agenda to **cross-sectional returns**, **portfolio choice**, and **investment**
-- 🌱 Exploring related topics in **climate risk**, **climate finance**, and **patient finance**
+- 🌱 Exploring **climate policy interactions**, **green monetary policy**, and **climate risk pricing**
+- 🤖 Investigating the **economics of AI** — including the productivity paradox, task automation, and AI-driven financial stability
+- 🏛️ Working on **public finance and inclusive finance** — government risk-sharing, supply-chain credit, and digital collateral
+- 🏭 Studying **industrial policy design** and its implications for **corporate credit risk** and **market competition**
+- 🏦 Modeling **pension systems and fiscal buffers** in heterogeneous-agent general equilibrium
+- 📊 Researching **market microstructure** and **high-frequency return decomposition** in Treasury futures and equity markets
 - 🤖 Experimenting with **LLM-assisted research workflows** for literature review, empirical analysis, and paper drafting
 
 ---
